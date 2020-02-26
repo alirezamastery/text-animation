@@ -17,7 +17,6 @@ class Drop:
         self.canvas = canvas
         self.width = width
         self.height = height
-        self.movecount = 7
         self.font_size = random.randint(int(font_size * 0.75) , font_size)
         self.distance = int(self.font_size * 1.2)
         # generate characteristics:
