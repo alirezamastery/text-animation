@@ -1,2 +1,4 @@
 # text-animation
-text animation sscripts in CLI and GUI
+text animation scripts for CLI and GUI
+
+
