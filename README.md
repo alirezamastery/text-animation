@@ -1,2 +1,2 @@
 # text-animation
-text animation sscripts in terminal and GUI
+text animation sscripts in CLI and GUI
